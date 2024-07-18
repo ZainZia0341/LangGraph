@@ -3,3 +3,4 @@ python-dotenv==1.0.1
 requests==2.32.3
 langchain-core==0.2.16
 langchain-openai==0.1.15
+PyPDF2==3.0.1
